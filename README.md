@@ -29,10 +29,10 @@ A web component to display RagnaröK Online Monster using Polymer.
 	<x-ragnarok-monster name="PORING"></x-ragnarok-monster>
 	```
 ## Some RagnaröK Online Monster Names to Test:
-1. amon ra
-2. banshee
-3. choco
-4. detale
+a. amon ra
+b. banshee
+c. choco
+d. detale
 
 ## Contributing
 
