@@ -30,8 +30,11 @@ A web component to display RagnaröK Online Monster using Polymer.
 	```
 ## Some RagnaröK Online Monster Names to Test:
 a. amon ra
+
 b. banshee
+
 c. choco
+
 d. detale
 
 ## Contributing
