@@ -1,6 +1,6 @@
 # &lt;x-ragnarok-monster&gt;
 
-Web Component wrapper for RagnaröK Online monster using Polymer.
+A web component to display RagnaröK Online Monster using Polymer.
 
 > Maintained by [Filipe Barros](https://github.com/barrosfilipe).
 
