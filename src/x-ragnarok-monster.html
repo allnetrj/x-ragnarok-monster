@@ -1,0 +1,17 @@
+<polymer-element name="x-ragnarok-monster" attributes="name">
+    <template>
+        <img alt="{{name}}" src="http://img.levelup.com.br/ragnarok/imagens/database/monstros/{{name}}.gif">
+    </template>
+    <script>
+        Polymer('x-ragnarok-monster', {
+            /**
+             * Name of the ragnarok monster to display.
+             *
+             * @attribute name
+             * @type string
+             * @default ''
+             */
+            name: ''
+        });
+    </script>
+</polymer-element>

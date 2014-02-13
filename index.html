@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>&lt;x-ragnarok-monster&gt;</title>
+
+	<!-- Importing Web Component's Polyfill -->
+	<script src="//cdnjs.cloudflare.com/ajax/libs/polymer/0.1.4/platform.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/polymer/0.1.4/polymer.js"></script>
+
+	<!-- Importing Custom Elements -->
+	<link rel="import" href="src/x-ragnarok-monster.html">
+</head>
+<body>
+    <p>
+        <input 
+            value="poring" 
+            oninput="document.querySelector('x-ragnarok-monster').name = this.value.toUpperCase().replace(' ','_');" />
+    </p>
+    <!-- Using Custom Elements -->
+    <x-ragnarok-monster name="PORING"></x-ragnarok-monster>
+</body>
