@@ -1,6 +1,6 @@
 # &lt;x-ragnarok-monster&gt;
 
-Web Component wrapper for RagnaröK Online monster using Polymer.
+A web component to display RagnaröK Online Monster using Polymer.
 
 > Maintained by [Filipe Barros](https://github.com/barrosfilipe).
 
@@ -28,6 +28,15 @@ Web Component wrapper for RagnaröK Online monster using Polymer.
 	```html
 	<x-ragnarok-monster name="PORING"></x-ragnarok-monster>
 	```
+## Some RagnaröK Online Monster Names to Test:
+
+a. amon ra
+
+b. banshee
+
+c. choco
+
+d. detale
 
 ## Contributing
 
